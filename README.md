@@ -48,7 +48,7 @@ To enable high security	for all	our gems:
 
 To install with high security:
 
-    gem install sixarm_ruby_rexml_element_new_with_options --test --trust-policy HighSecurity
+    gem install sixarm_ruby_rexml_element_new_with_options --trust-policy HighSecurity
 
 
 ## Example of children
