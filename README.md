@@ -69,8 +69,3 @@ To install with high security:
 
     e = Element.new_with_options_as_tr(:cells => ["a", "b", "c"])                                                                                                                                                                                                               
     #=> element with name=="tr" and children elements with name "td" and text "a", "b", "c" 
-
-
-## Changes
-
-* 2012-03-18 1.2.0 Lift from SixArm HTX
