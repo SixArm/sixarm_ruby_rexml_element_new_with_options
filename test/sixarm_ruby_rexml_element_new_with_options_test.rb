@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
-require 'minitest/autorun'
-require 'simplecov'
+require "minitest/autorun"
+require "simplecov"
 SimpleCov.start
-require 'sixarm_ruby_rexml_element_new_with_options'
-require 'pathname'
+require "sixarm_ruby_rexml_element_new_with_options"
+require "pathname"
 
 describe REXML::Element do
 

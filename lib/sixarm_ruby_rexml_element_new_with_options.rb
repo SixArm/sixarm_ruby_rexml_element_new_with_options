@@ -3,7 +3,7 @@
 Please see README
 =end
 
-require 'rexml/document'
+require "rexml/document"
 
 module REXML
 
