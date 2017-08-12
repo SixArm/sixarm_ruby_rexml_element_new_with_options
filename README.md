@@ -1,4 +1,4 @@
-SixArm.com → Ruby → <br> REXML::Element.new_with_options methods to build elements
+# SixArm.com → Ruby → <br> REXML::Element.new_with_options methods to build elements
 
 * Doc: <http://sixarm.com/sixarm_ruby_rexml_element_new_with_options/doc>
 * Gem: <http://rubygems.org/gems/sixarm_ruby_rexml_element_new_with_options>
