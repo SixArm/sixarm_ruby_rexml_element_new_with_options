@@ -3,7 +3,7 @@
 Gem::Specification.new do |s|
 
   s.name              = "sixarm_ruby_rexml_element_new_with_options"
-  s.summary           = "SixArm.com » Ruby » REXML::Element.new_with_options"
+  s.summary           = "SixArm.com → Ruby → REXML::Element.new_with_options"
   s.description       = "REXML::Element.new_with_options methods to create XML classes"
   s.version           = "1.2.1"
 
