@@ -27,23 +27,21 @@ Want to help? We're happy to get pull requests.
 
 ## Install
 
-To install using a Gemfile, add this:
+### Gem
 
-    gem "sixarm_ruby_rexml_element_new_with_options", ">= 1.2.1", "< 2"
+Run this command in your shell or terminal:
 
-To install using the command line, run this:
+    gem install sixarm_ruby_rexml_element_new_with_options
 
-    gem install sixarm_ruby_rexml_element_new_with_options -v ">= 1.2.1, < 2"
+Or add this to your Gemfile:
 
-To install using the command line with high security, run this:
+    gem 'sixarm_ruby_rexml_element_new_with_options'
 
-    wget http://sixarm.com/sixarm.pem
-    gem cert --add sixarm.pem && gem sources --add http://sixarm.com
-    gem install sixarm_ruby_rexml_element_new_with_options -v ">= 1.2.1, < 2" --trust-policy HighSecurity
+### Require
 
 To require the gem in your code:
 
-    require "sixarm_ruby_rexml_element_new_with_options"
+    require 'sixarm_ruby_rexml_element_new_with_options'
 
 <!--INSTALL-SHUT-->
 
